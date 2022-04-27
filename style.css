@@ -1,3 +1,7 @@
+*{
+    background-color: wheat;
+}
+
 #clockContainer{
     position: relative;
     margin: auto;
@@ -6,7 +10,8 @@
     width:  40vw;
     background: url(clock.png) no-repeat;
    background-size: 100%;
-
+   background-color: rgb(31, 95, 95);
+  
 
 }
 
